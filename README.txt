@@ -9,13 +9,8 @@ A major limiting factor is the lack of validation data, I tried splitting off 91
 
 
 TODO:
-
 -More advanced imputation on age; use name and cabin data
-
 -Use pandas
-
 -Transfer notes from the comments
-
 -Clean up some of the sanity checks
-
 -fix duplicate CSVs
